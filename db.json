@@ -11,14 +11,14 @@
   ,
   "questions": [
      { "id": 1, 
-      "question": "" ,
-      "quesType": "" ,
-      "questionItems": "",
-      "answers":""},
+      "question": "Please arrange the sentence:" ,
+      "quesType": "ARR_SEN" ,
+      "questionItems": ["B","A","C"],
+      "answers":[] },
     { "id": 2, 
-      "question": "" ,
-      "quesType": "" ,
-      "questionItems": "",
-      "answers":""}
+      "question": "Please arrange the sentence:" ,
+      "quesType": "ARR_SEN" ,
+      "questionItems": ["A BOY","I","AM"],
+      "answers" :[] }
   ]
 }
