@@ -7,17 +7,5 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "questions": [
-     { "id": 1, 
-      "question": "" ,
-      "quesType": "" ,
-      "questionItems": "",
-      "answers":""},
-    { "id": 2, 
-      "question": "" ,
-      "quesType": "" ,
-      "questionItems": "",
-      "answers":""}
   ]
 }
