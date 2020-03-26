@@ -13,7 +13,7 @@
      { "id": 1, 
       "question": "Please arrange the sentence:" ,
       "quesType": "ARR_SEN" ,
-      "questionItems": ["B","A","C"],
+      "questionItems": ["B","A","C","D"],
       "answers":[] },
     { "id": 2, 
       "question": "Please arrange the sentence:" ,
