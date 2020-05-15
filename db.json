@@ -18,7 +18,7 @@
     { "id": 2, 
       "question": "Please arrange the sentence:" ,
       "quesType": "ARR_SEN" ,
-      "questionItems": ["A BOY","I","AM"],
+      "questionItems": ["A","BOY.","I","AM"],
       "answers" :[] }
   ]
 }
