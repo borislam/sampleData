@@ -10,15 +10,61 @@
   ]
   ,
   "questions": [
-     { "id": 1, 
-      "question": "Please arrange the sentence:" ,
-      "quesType": "ARR_SEN" ,
-      "questionItems": ["B","A","C","D"],
-      "answers":[] },
-    { "id": 2, 
-      "question": "Please arrange the sentence:" ,
-      "quesType": "ARR_SEN" ,
-      "questionItems": ["What","do","you","yesterday ? "],
-      "answers" :[] }
+  {
+    "id": 1,
+    "question": "Please arrange the sentence:",
+    "quesType": "ARR_SEN",
+    "level" : "lv1",
+    "questionItems": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answers": ["A","B","C","D"]
+  },
+  {
+    "id": 2,
+    "question": "Please arrange the sentence:",
+    "quesType": "ARR_SEN",
+      "level" : "lv1",
+    "questionItems": [
+      "What",
+      "do",
+      "you",
+      "yesterday ?",
+      "did"
+    ],
+    "answers": ["What","did","you","do","yesterday ?"]
+  },
+  {
+    "id": 3,
+    "question": "Please arrange the sentence:",
+    "quesType": "ARR_SEN",
+    "level" : "lv1",
+    "questionItems": [
+      "去",
+      "公園",
+      "小明",
+      "做運動",
+      "。"
+    ],
+    "answers": ["小明","去","公園","做運動","。"]
+  },
+  {
+    "id": 4,
+    "question": "Please arrange the sentence:",
+    "quesType": "ARR_SEN",
+      "level" : "lv2",
+    "questionItems": [
+      "花間",
+      "在",
+      "翩翩",
+      "起舞",
+      "。",
+      "蝴碟"
+    ],
+    "answers": ["蝴碟","在","花間","翩翩","起舞","。"]
+  }
   ]
 }
