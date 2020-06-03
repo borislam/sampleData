@@ -21,7 +21,7 @@
       "C",
       "D"
     ],
-    "answers": ["A","B","C","D"]
+    "answers": "ABCD"
   },
   {
     "id": 2,
@@ -35,7 +35,7 @@
       "yesterday ?",
       "did"
     ],
-    "answers": ["What","did","you","do","yesterday ?"]
+    "answers": "Whatdidyoudoyesterday ?"
   },
   {
     "id": 3,
@@ -49,7 +49,7 @@
       "做運動",
       "。"
     ],
-    "answers": ["小明","去","公園","做運動","。"]
+    "answers": "小明去公園做運動。"
   },
   {
     "id": 4,
@@ -64,7 +64,7 @@
       "。",
       "蝴碟"
     ],
-    "answers": ["蝴碟","在","花間","翩翩","起舞","。"]
+    "answers": "蝴碟在花間翩翩起舞。"
   }
   ]
 }
